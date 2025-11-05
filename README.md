@@ -12,7 +12,6 @@ The goal is to build a clean and minimal personal portfolio webpage using only H
 
 - HTML structure
 - Semantic elements
-- Text formatting, links, images
 - Creating multiple sections on a single page
 - How to deploy to GitHub Pages
 
