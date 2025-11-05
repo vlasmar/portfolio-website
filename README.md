@@ -40,7 +40,7 @@ project-folder/
 
 ## 📸 Demo
 
-🔗 Live Demo: 
+🔗 Live Demo: https://vlasmar.github.io/portfolio-website/
 🔗 GitHub Repo: https://github.com/vlasmar/portfolio-website
 
 ---
