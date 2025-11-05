@@ -1,7 +1,7 @@
 # 🚀 Simple Portfolio Page - Week 1 Project
 
-![HTML5] (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![GitHub Pages] (https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
 
 This project is part of **Week 1 – HTML & Web Basics** of my Full-Stack Developer Learning Program.  
 The goal is to build a clean and minimal personal portfolio webpage using only HTML.
